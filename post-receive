@@ -1,0 +1,3 @@
+#!/bin/sh
+#GIT_WORK_TREE=/kunden/homepages/28/d105266633/htdocs/web01remote/public_html git checkout -f
+GIT_WORK_TREE=/kunden/homepages/28/d105266633/htdocs/bessereweine2022 git checkout -f
